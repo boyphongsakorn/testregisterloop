@@ -1,0 +1,23 @@
+{
+  "name": "testregisterloop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boyphongsakorn/testregisterloop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/boyphongsakorn/testregisterloop/issues"
+  },
+  "homepage": "https://github.com/boyphongsakorn/testregisterloop#readme",
+  "devDependencies": {
+    "electron": "^13.2.1"
+  }
+}
